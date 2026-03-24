@@ -1,4 +1,4 @@
-# Foundry 0.1rx
+# Foundry
 ### Foundry 0.1rx is the alpha version of the C++ rewrite of the game Foundry.
 
 (MAKE SURE TO FOLLOW THE EULA TO PROCEED)
