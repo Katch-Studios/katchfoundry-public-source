@@ -1,5 +1,5 @@
-# Foundry
-The C++ rewrite of the game Foundry.
+# KatchFoundry - 0.1rx
+The C++ rewrite of the game KatchFoundry.
 
 This is only the source code of releases of foundry. The source code is only released for specific versions.
 
